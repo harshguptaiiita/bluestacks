@@ -1,5 +1,3 @@
-// demo json file which is used through out this project
-
 const data = {
   body: [
     {
